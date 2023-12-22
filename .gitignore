@@ -1,0 +1,8 @@
+# Python
+*.egg-info
+__pycache__
+.eggs
+.venv
+.mypy_cache
+.ipynb_checkpoints
+.pytest_
